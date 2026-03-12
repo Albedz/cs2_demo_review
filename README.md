@@ -2,7 +2,7 @@
 
 A browser-based CS2 demo replay viewer. Upload `.dem` or `.dem.zst` demo files and watch rounds play out on the radar with full playback controls.
 
-All parsing runs **client-side** using WebAssembly — no server needed.
+All parsing runs **client-side** using WebAssembly  no server needed.
 
 **[Live Demo](https://albedz.github.io/cs2_demo_review/)**
 
